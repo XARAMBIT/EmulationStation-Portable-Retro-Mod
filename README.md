@@ -1,8 +1,10 @@
 # EmulationStation Portable - Retro Mod (Windows)
 Updated EmulationStation Portable for Windows
 
-Should be used with jrassa fork:
-https://github.com/jrassa/EmulationStation/releases/
+** This is not the whole program **
+It has to be extracted into an existing emulation station (For Windows) installation.
+The latest releases are here: https://github.com/jrassa/EmulationStation/releases/
+There are several forks of ES for Windows, but currently the only one being kept up-to-date is the jrassa fork
 
 Backup your es_systems.cfg & es_settings.cfg
 
