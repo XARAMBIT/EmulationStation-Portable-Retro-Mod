@@ -23,10 +23,12 @@ more info on reshade: https://github.com/crosire/reshade
 
 # Latest Changes:
 Updated EmulationStation Portable .bat files to automatically close command prompt after launch. Included 4 different resolutions
+
 1920x1080
 2560x1440
 
 1900x1000 (to leave space for title & taskbar)
+
 2540x1350 (to leave space for title & taskbar)
 
 Integrated ReShade into ES with my arcade CRT presets
