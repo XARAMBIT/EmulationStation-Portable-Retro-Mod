@@ -22,13 +22,18 @@ more info on reshade: https://github.com/crosire/reshade
 
 
 # Latest Changes:
-Updated EmulationStation Portable .bat files to close command prompt as well as different resolutions.
+Updated EmulationStation Portable .bat files to automatically close command prompt after launch. Included 4 different resolutions
+1920x1080
+2560x1440
 
-Integrated ReShade into ES with CRT presets
+1900x1000 (to leave space for title & taskbar)
+2540x1350 (to leave space for title & taskbar)
+
+Integrated ReShade into ES with my arcade CRT presets
 
 Modified hurstyblue Blue theme:
 
-    dramatically compressed PNGs to help fix VRAM Retropie white screen issues (if used on RaspberryPi)
+    dramatically compressed PNGs to help fix vRAM Retropie white screen issues (if used on RaspberryPi)
     Added systems: Nintendo3ds, advmame, mame-libretro, mame4all
     Added collection themes: terminator, dragonballz, ports, etc
     Adjusted font position and size
