@@ -11,6 +11,8 @@ Backup your es_systems.cfg & es_settings.cfg
 
 Download release zip and extract into your emulationstation folder
 
+If you have never configured es_systems.cfg, you may have to set it up & edit the file manually.
+
 Run portable bat file depending on resolution.
 Launch Portable (1080p Windowed).bat will run in a window but leave room for taskbar and titlebar
 
