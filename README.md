@@ -1,4 +1,4 @@
-# emulationstation-portable-retro-mod
+# EmulationStation Portable Retro Mod
 Updated EmulationStation Portable for Windows
 
 Should be used with jrassa fork:
